@@ -1,0 +1,57 @@
+.header{
+  border-bottom: 1rem;
+  border-color: rgb(61, 61, 60);
+}
+
+.header-title{
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-bottom: 20px;
+}
+
+.subtitle-margin{
+  padding-top: 30px;
+}
+
+.card-margin{
+  margin: 20px;
+}
+
+.genre-margin{
+  margin: 3px;
+}
+
+.icon-margin{
+  margin: 5px;
+}
+
+.icon-date-margin{
+  margin-right: 5px;
+}
+
+.date-margin{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.image-center{
+  text-align: center;
+}
+.image-style{
+  width: 100vw;
+}
+
+.body-margin{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#body{
+  line-height: 1.8em;
+}
+
+.confirm{
+  margin: 10px;
+}
